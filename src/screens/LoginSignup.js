@@ -43,6 +43,7 @@ const LoginSignup = ({ navigation }) => {
     <TouchableOpacity style={styles.keypadButton} onPress={onPress}>
       <Text style={styles.keypadNumber}>{number}</Text>
       {letters && <Text style={styles.keypadLetters}>{letters}</Text>}
+      }
     </TouchableOpacity>
   );
 
