@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { Footer } from "../../components/layout/Footer";
+import { Footer } from "../../../components/layout/Footer";
 import { Button } from "../components/ui/button";
 import { Card, CardContent } from "../components/ui/card";
 import { ContinueSection } from "./sections/ContinueSection";
