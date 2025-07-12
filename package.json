@@ -8,5 +8,8 @@
   },
   "dependencies": {
     "vite": "^7.0.4"
+  },
+  "devDependencies": {
+    "@animaapp/vite-plugin-screen-graph": "^0.1.11"
   }
 }
