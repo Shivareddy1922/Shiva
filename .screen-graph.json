@@ -110,6 +110,38 @@
       }
     },
     {
+      "id": "src/components/layout/Footer.tsx:21:27-to-src/routes/Dashboard/screens/Dashboard.tsx",
+      "source": "src/routes/LoginSignup/screens/LoginSignup.tsx",
+      "target": "src/routes/Dashboard/screens/Dashboard.tsx",
+      "data": {
+        "viaRoute": "/dashboard",
+        "trigger": {
+          "element": "navigate('/dashboard')",
+          "line": 21,
+          "endLine": 21,
+          "column": 27,
+          "endColumn": 49,
+          "sourceFile": "src/components/layout/Footer.tsx"
+        }
+      }
+    },
+    {
+      "id": "src/components/layout/Footer.tsx:58:25-to-src/routes/RequestFeedback/screens/RequestFeedback.tsx",
+      "source": "src/routes/LoginSignup/screens/LoginSignup.tsx",
+      "target": "src/routes/RequestFeedback/screens/RequestFeedback.tsx",
+      "data": {
+        "viaRoute": "/request-feedback",
+        "trigger": {
+          "element": "navigate('/request-feedback')",
+          "line": 58,
+          "endLine": 58,
+          "column": 25,
+          "endColumn": 54,
+          "sourceFile": "src/components/layout/Footer.tsx"
+        }
+      }
+    },
+    {
       "id": "src/routes/Enterotp/screens/Enterotp.tsx:34:4-to-src/routes/LoginSignup/screens/LoginSignup.tsx",
       "source": "src/routes/Enterotp/screens/Enterotp.tsx",
       "target": "src/routes/LoginSignup/screens/LoginSignup.tsx",
@@ -207,7 +239,7 @@
     },
     {
       "id": "src/components/layout/Footer.tsx:21:27-to-src/routes/Dashboard/screens/Dashboard.tsx",
-      "source": "src/routes/RequestFeedback/screens/RequestFeedback.tsx",
+      "source": "src/routes/LoginSignup/screens/LoginSignup.tsx",
       "target": "src/routes/Dashboard/screens/Dashboard.tsx",
       "data": {
         "viaRoute": "/dashboard",
@@ -223,7 +255,7 @@
     },
     {
       "id": "src/components/layout/Footer.tsx:58:25-to-src/routes/RequestFeedback/screens/RequestFeedback.tsx",
-      "source": "src/routes/RequestFeedback/screens/RequestFeedback.tsx",
+      "source": "src/routes/LoginSignup/screens/LoginSignup.tsx",
       "target": "src/routes/RequestFeedback/screens/RequestFeedback.tsx",
       "data": {
         "viaRoute": "/request-feedback",
